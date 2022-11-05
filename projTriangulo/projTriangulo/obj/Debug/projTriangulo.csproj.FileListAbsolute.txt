@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\bin\Debug\projTriangulo.exe.config
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\bin\Debug\projTriangulo.exe
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\bin\Debug\projTriangulo.pdb
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.Form1.resources
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.Properties.Resources.resources
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.exe
+C:\Users\aluno\source\repos\projTriangulo\projTriangulo\obj\Debug\projTriangulo.pdb
